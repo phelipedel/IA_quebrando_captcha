@@ -6,17 +6,17 @@
 ## Ideia: 
 
 - Remocao de ruidos da imagem
--   - retirar das letras e deixando as mais visieiveis 
+-   - retirar das letras e deixando as mais visieiveis. 
 
-- Separar imagens em letras
--   - separar letra por letrar 
-	- criar pasta para cada letra do alfabeto 
-	-  -Usei um pequeno sistema para de criacao de pasta para ser mais rapido 
+- Separar imagens em letras.
+-   - separar letra por letrar .
+	- criar pasta para cada letra do alfabeto .
+	-  - Usei um pequeno sistema para a criacao de pasta para ser mais rapido .
 
 - Categorizas as letras para o treino
 
 - Treinamento da IA
--  - >  Apos algumas tentativas com o modelo atual cheguei a conclusao que o melhor
+-  - >  Apos algumas tentativas com o modelo atual cheguei a conclusao que o melhor.
 -  - > epochs e de 29, aposta passarmos desse valor entramos no estagio de overfitting.
 
 
