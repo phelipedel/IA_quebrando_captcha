@@ -16,9 +16,8 @@
 - Categorizas as letras para o treino
 
 - Treinamento da IA
--  - >  Apos algumas tentativas com o modelo atual cheguei a conclusao que o melhor.
--  - > epochs e de 29, aposta passarmos desse valor entramos no estagio de overfitting.
-
+-  - >  Apos algumas tentativas com o modelo atual cheguei a conclusao que o melhor &nbsp;. epochs e de 29, aposta passarmos desse valor entramos no estagio de overfitting.
+.
 
 Instale seguintes modulos: 
 ```sh
