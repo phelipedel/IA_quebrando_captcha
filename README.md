@@ -1,4 +1,4 @@
-# Lendo_CAPTCHA__com_IA
+
 # Automacao de verificao de CAPTCHA
 ## Primeivo projeto utilizando IA
 
