@@ -3,7 +3,7 @@
 ## Primeivo projeto utilizando IA
 
 
-## Ideia: 
+## Ideia:
 
 - Remocao de ruidos da imagem
 -   - retirar das letras e deixando as mais visieiveis. 
@@ -64,7 +64,7 @@ pip install os
 pip install 
 ```
 
--Link venv caso queria utilizar:
+-Link venv:
 
 ```sh
 https://www.mediafire.com/file/mkzm0ad91mvyruw/venv.rar/file
