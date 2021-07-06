@@ -13,7 +13,7 @@ metodos = [
 
 ]
 
-imagem = cv2.imread('bdcaptcha/telanova0.png')
+imagem = cv2.imread('bdcaptcha/1.png')
 
 #transformar a image em escala de cinza
 
