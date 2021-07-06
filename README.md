@@ -19,7 +19,14 @@
 -  - >  Apos algumas tentativas com o modelo atual cheguei a conclusao que o melhor &nbsp; epochs e de 29, aposta passarmos desse valor entramos no estagio de overfitting.
 .
 
+
+-Link venv:
+
+```sh
+https://www.mediafire.com/file/mkzm0ad91mvyruw/venv.rar/file
+```
 Instale seguintes modulos: 
+
 ```sh
 pip install opencv-python
 ```
